@@ -1,5 +1,5 @@
-# Resxume - Open Source Resume Builder
-
+# resxume
+![banner](https://raw.githubusercontent.com/resxume/resxume/main/readmebanner.jpg)
 Welcome to Resxume, an open source resume builder that helps job seekers create professional and visually appealing resumes.
 
 We believe that everyone should have access to tools that can help them land their dream job, regardless of their background or financial situation. That's why we've created Resxume - to make the resume building process as simple and free to use !
