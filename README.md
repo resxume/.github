@@ -1,0 +1,5 @@
+# Welcome to .github of resume
+![Banner](/logo/banner.jpg)
+This repository serves as a public repository for the resxume community. The primary objective of this repository is to serve as a central hub for the community to access and share essential resources. Through this repository, we aim to empower members of the community to make meaningful contributions by providing them with an abundance of resources that are necessary to execute their ideas and projects. This includes, but not limited to, logos, graphics, design templates, and other materials that are critical to the success of the community.
+
+By creating this repository, we strive to eliminate any barriers to entry that may arise due to a lack of resources. We believe that providing easy access to these resources will not only enable the community to take action on their ideas but also foster a culture of collaboration and shared success. We are committed to continuously updating and expanding the repository to ensure that it remains a valuable resource for the community.
