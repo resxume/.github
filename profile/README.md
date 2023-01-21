@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/resxume/resxume/main/readmebanner.jpg)
+![banner](https://raw.githubusercontent.com/resxume/.github/main/profile/readmebanner.jpg)
 
 Welcome to Resxume, an open source resume builder that helps job seekers create professional and visually appealing resumes.
 
