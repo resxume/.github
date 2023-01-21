@@ -32,3 +32,5 @@ By contributing to Resxume, you'll be joining a respected and reputable communit
 
 Let's work together to help job seekers everywhere land their dream jobs!
 
+## For Support
+Need help or have questions? Our community support is here for you! Please reach out to us at dustland.developers@gmail.com or join our [Discussion](https://github.com/orgs/resxume/discussions) support channel for assistance.
